@@ -1,3 +1,4 @@
-img[src="/images/benup-dev-logo.svg"] {
+img[alt="light logo"],
+img[alt="dark logo"] {
   height: 2.5rem;
 }
